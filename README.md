@@ -53,7 +53,7 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=void404whispers&theme=react-dark&bg_color=0d1117&color=FF4ECD&line=FFC857&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=void404whispers&theme=tokyonight" />
 </p>
 
 ---
