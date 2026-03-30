@@ -17,11 +17,6 @@ Python | Java | HTML | SQL
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=void404whispers&show_icons=true)
-
----
-
 ## 📫 Connect with me
 LinkedIn: www.linkedin.com/in/tithibrata-biswas03
 
