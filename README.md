@@ -51,13 +51,18 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=void404whispers&theme=tokyonight" />
-</p>
+## 🧠 Coding Profiles
+- HackerRank: (https://www.hackerrank.com/tithibrata003)  
+---
 
+## 🏆 Certifications
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=void404whispers&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=void404whispers&theme=tokyonight" />
+  <a href="https://www.hackerrank.com/certificates/iframe/605b4a9a8c22">
+    <img src="https://img.shields.io/badge/Java%20Programming-FF4ECD?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1DH4ueNZo9CoKuWJdN4tFpC6iLY4_5oUg/view?usp=sharin">
+    <img src="https://img.shields.io/badge/Python%20Developer%20Intern-FFC857?style=for-the-badge&logo=python&logoColor=black"/>
+  </a>
 </p>
 
 ---
@@ -69,9 +74,15 @@
 
 ---
 
+🔥 Consistently improving & contributing to projects
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=void404whispers&label=Profile%20Views&color=ff4ecd&style=for-the-badge" />
 </p>
+
+--- 
+
+💡 "Code. Create. Innovate."
 
 ---
 
