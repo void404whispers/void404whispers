@@ -1,7 +1,7 @@
 # ✨ Hey, I'm Tithibrata
 
-🚀 Building cool stuff with code  
-💻 CSE Student | AI Enthusiast
+💻 CSE Core Student | Tech Enthusiast
+🤖 Interested in AI, Web Development & Building Real Projects
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub!;I+build+cool+projects;AI+%7C+Web+Dev+%7C+Tech)
 
