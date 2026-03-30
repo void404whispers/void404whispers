@@ -3,7 +3,7 @@
 💻 CSE Core Student | Tech Enthusiast
 🤖 Interested in AI, Web Development & Building Real Projects
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub!;I+build+cool+projects;AI+%7C+Web+Dev+%7C+Tech)
+![Typing SVG](![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&width=500&lines=CSE+Core+Student;Tech+Enthusiast;Exploring+AI+%26+Web+Dev;Building+Real+Projects))
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-blue)
