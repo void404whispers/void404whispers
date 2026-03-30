@@ -1,19 +1,22 @@
 # ✨ Hey, I'm Tithibrata
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=24&center=true&vCenter=true&width=700&speed=25&pause=700&lines=Hi%2C+I%27m+Tithibrata+%F0%9F%91%8B;%F0%9F%92%BB+CSE+Core+Student;Tech+Enthusiast;%F0%9F%A4%96+AI+%7C+Web+Development;%F0%9F%9A%80+Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4ECD&size=24&center=true&vCenter=true&width=700&speed=25&pause=700&lines=Hi%2C+I%27m+Tithibrata+%F0%9F%91%8B;%F0%9F%92%BB+CSE+Core+Student;Tech+Enthusiast;%F0%9F%A4%96+AI+%7C+Web+Development;%F0%9F%9A%80+Building+Real+Projects" />
+</p>
+
+<p align="center">
+  <a href="mailto:coding.titan16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/tithibrata-biswas03">
+    <img src="https://img.shields.io/badge/LinkedIn-FFC857?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=void404whispers&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFD700&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4ECD,100:FFC857&height=120&section=header"/>
 </p>
 
 ## 🧠 About Me
@@ -25,23 +28,16 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 Projects
 - 🔹 Resume Parser  
-- 🔹 AI Chatbot    
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=void404whispers&theme=algolia&margin-w=10&margin-h=10"/>
-</p>
+- 🔹 AI Chatbot  
 
 ---
 
@@ -53,7 +49,12 @@
 
 ---
 
-## 🎯 Fun Animation
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=void404whispers&label=Profile%20Views&color=ff4ecd&style=for-the-badge" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 </p>
@@ -61,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF69B4&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC857,100:FF4ECD&height=120&section=footer"/>
 </p>
