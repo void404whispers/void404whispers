@@ -6,20 +6,19 @@
 
 <p align="center">
   <a href="mailto:coding.titan16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/tithibrata-biswas03">
-    <img src="https://img.shields.io/badge/LinkedIn-FFC857?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4ECD,100:FFC857&height=120&section=header"/>
 </p>
 
-## 🧠 About Me
+## 👨‍💻 About Me
 💻 CSE Core Student  
 🚀 Passionate about building real-world projects  
 🤖 Exploring AI & Web Development  
@@ -27,10 +26,8 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,postgresql,git,github,vscode" />
 </p>
 
 ---
@@ -49,14 +46,15 @@
 
 ---
 
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=void404whispers&label=Profile%20Views&color=ff4ecd&style=for-the-badge" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=void404whispers&theme=react-dark&bg_color=0d1117&color=FF4ECD&line=FFC857&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+  <img src="https://komarev.com/ghpvc/?username=void404whispers&label=Profile%20Views&color=ff4ecd&style=for-the-badge" />
 </p>
 
 ---
