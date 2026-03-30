@@ -26,7 +26,7 @@
 ## 👩‍💻 About Me
 💻 CSE Core Student  
 🚀 Passionate about building real-world projects  
-🤖 Exploring AI & Web Development  
+🤖 Exploring AI/ML & Web Development  
 
 ---
 
