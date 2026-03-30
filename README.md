@@ -1,36 +1,15 @@
-## Hi there 👋
-## I'm Tithibrata Biswas
+# ✨ Hey, I'm Tithibrata
 
-💻 CSE Student | 🚀 Developer | 🤖 AI Enthusiast  
+🚀 Building cool stuff with code  
+💻 CSE Student | AI Enthusiast
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub!;I+build+cool+projects;AI+%7C+Web+Dev+%7C+Tech)
 
 ## 🛠️ Tech Stack
-Python | Java | HTML | SQL  
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![HTML](https://img.shields.io/badge/HTML-red)
 
----
-
-## 📌 Projects
-🔹 Resume Parser  
-🔹 AI Chatbot  
-
-
----
-
-## 📫 Connect with me
-LinkedIn: www.linkedin.com/in/tithibrata-biswas03
-
-<!--
-**void404whispers/void404whispers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔹 Resume Parser  
+- 🔹 AI Chatbot  
