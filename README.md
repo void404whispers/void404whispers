@@ -1,4 +1,29 @@
 ## Hi there 👋
+## I'm Tithibrata Biswas
+
+💻 CSE Student | 🚀 Developer | 🤖 AI Enthusiast  
+
+---
+
+## 🛠️ Tech Stack
+Python | Java | HTML | SQL  
+
+---
+
+## 📌 Projects
+🔹 Resume Parser  
+🔹 AI Chatbot  
+
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=void404whispers&show_icons=true)
+
+---
+
+## 📫 Connect with me
+LinkedIn: www.linkedin.com/in/tithibrata-biswas03
 
 <!--
 **void404whispers/void404whispers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
